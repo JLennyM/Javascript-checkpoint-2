@@ -1,4 +1,4 @@
-//checkpoint 2
+//checkpoint2
 // String Manipulation Functions
 
 // 1. Reverse a String
